@@ -20,5 +20,8 @@
   "dependencies": {
     "express": "^4.15.5",
     "mongoose": "^4.11.13"
+  },
+  "devDependencies": {
+    "express-session": "^1.15.6"
   }
 }
